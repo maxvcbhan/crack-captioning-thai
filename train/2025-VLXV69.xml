@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Low</folder>
+	<filename>2025-VLXV69.jpg</filename>
+	<path>D:\crack_834\Low\2025-VLXV69.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1476</width>
+		<height>1108</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Low</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>345</ymin>
+			<xmax>1178</xmax>
+			<ymax>1018</ymax>
+		</bndbox>
+	</object>
+</annotation>

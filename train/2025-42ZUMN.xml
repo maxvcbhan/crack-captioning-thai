@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Medium</folder>
+	<filename>2025-42ZUMN.jpg</filename>
+	<path>D:\final_dataset\Medium\2025-42ZUMN.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1076</width>
+		<height>1524</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Medium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>415</xmin>
+			<ymin>152</ymin>
+			<xmax>690</xmax>
+			<ymax>1304</ymax>
+		</bndbox>
+	</object>
+</annotation>

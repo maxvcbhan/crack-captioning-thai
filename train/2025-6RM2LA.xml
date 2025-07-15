@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Medium</folder>
+	<filename>2025-6RM2LA.jpg</filename>
+	<path>D:\final_dataset\Medium\2025-6RM2LA.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1774</width>
+		<height>2364</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Medium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>787</xmin>
+			<ymin>299</ymin>
+			<xmax>1643</xmax>
+			<ymax>1681</ymax>
+		</bndbox>
+	</object>
+</annotation>

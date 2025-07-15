@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Low</folder>
+	<filename>2025-4AJNEB.jpg</filename>
+	<path>D:\crack_834\Low\2025-4AJNEB.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>828</width>
+		<height>1792</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Low</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>524</xmin>
+			<ymin>648</ymin>
+			<xmax>828</xmax>
+			<ymax>1636</ymax>
+		</bndbox>
+	</object>
+</annotation>

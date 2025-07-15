@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Medium</folder>
+	<filename>2025-3T7VE3.jpg</filename>
+	<path>D:\final_dataset\Medium\2025-3T7VE3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1143</width>
+		<height>1431</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Medium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>381</ymin>
+			<xmax>1096</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Medium</folder>
+	<filename>2025-MKFHK6.jpg</filename>
+	<path>D:\final_dataset\Medium\2025-MKFHK6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Medium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>10</ymin>
+			<xmax>428</xmax>
+			<ymax>783</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Low</folder>
+	<filename>2025-2MMUYM.jpg</filename>
+	<path>D:\crack_834\Low\2025-2MMUYM.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1705</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Low</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>653</ymin>
+			<xmax>594</xmax>
+			<ymax>753</ymax>
+		</bndbox>
+	</object>
+</annotation>

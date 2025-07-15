@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Low</folder>
+	<filename>2025-K9TW6K.jpg</filename>
+	<path>D:\crack_834\Low\2025-K9TW6K.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2730</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Low</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>646</xmin>
+			<ymin>131</ymin>
+			<xmax>964</xmax>
+			<ymax>2616</ymax>
+		</bndbox>
+	</object>
+</annotation>

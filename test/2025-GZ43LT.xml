@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Medium</folder>
+	<filename>2025-GZ43LT.jpg</filename>
+	<path>D:\final_dataset\Medium\2025-GZ43LT.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1773</width>
+		<height>2364</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Medium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>435</ymin>
+			<xmax>1532</xmax>
+			<ymax>1920</ymax>
+		</bndbox>
+	</object>
+</annotation>

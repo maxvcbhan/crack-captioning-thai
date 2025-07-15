@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Medium</folder>
+	<filename>2025-V332Y6.jpg</filename>
+	<path>D:\final_dataset\Medium\2025-V332Y6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1034</width>
+		<height>1583</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Medium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>284</ymin>
+			<xmax>802</xmax>
+			<ymax>1371</ymax>
+		</bndbox>
+	</object>
+</annotation>

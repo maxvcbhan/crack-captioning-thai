@@ -1,0 +1,26 @@
+<annotation>
+	<folder>High</folder>
+	<filename>2025-WVWVPR_aug2.jpg</filename>
+	<path>D:\final_dataset\High\2025-WVWVPR_aug2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>803</width>
+		<height>1438</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>High</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>140</ymin>
+			<xmax>691</xmax>
+			<ymax>1434</ymax>
+		</bndbox>
+	</object>
+</annotation>

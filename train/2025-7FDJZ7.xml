@@ -1,0 +1,26 @@
+<annotation>
+	<folder>High</folder>
+	<filename>2025-7FDJZ7.jpg</filename>
+	<path>D:\final_dataset\High\2025-7FDJZ7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>721</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>High</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>1</ymin>
+			<xmax>720</xmax>
+			<ymax>1077</ymax>
+		</bndbox>
+	</object>
+</annotation>

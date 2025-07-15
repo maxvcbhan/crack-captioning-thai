@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Medium</folder>
+	<filename>2025-CJNN62.jpg</filename>
+	<path>D:\final_dataset\Medium\2025-CJNN62.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1108</width>
+		<height>1477</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Medium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>226</ymin>
+			<xmax>934</xmax>
+			<ymax>1205</ymax>
+		</bndbox>
+	</object>
+</annotation>

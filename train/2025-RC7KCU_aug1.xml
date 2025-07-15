@@ -1,0 +1,26 @@
+<annotation>
+	<folder>High</folder>
+	<filename>2025-RC7KCU_aug1.jpg</filename>
+	<path>D:\final_dataset\High\2025-RC7KCU_aug1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1330</width>
+		<height>1773</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>High</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>438</xmin>
+			<ymin>205</ymin>
+			<xmax>763</xmax>
+			<ymax>1408</ymax>
+		</bndbox>
+	</object>
+</annotation>

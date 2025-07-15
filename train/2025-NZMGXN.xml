@@ -1,0 +1,26 @@
+<annotation>
+	<folder>High</folder>
+	<filename>2025-NZMGXN.jpg</filename>
+	<path>D:\final_dataset\High\2025-NZMGXN.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>869</width>
+		<height>1882</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>High</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>228</ymin>
+			<xmax>772</xmax>
+			<ymax>1655</ymax>
+		</bndbox>
+	</object>
+</annotation>

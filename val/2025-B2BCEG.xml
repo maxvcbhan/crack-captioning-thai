@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Medium</folder>
+	<filename>2025-B2BCEG.jpg</filename>
+	<path>D:\final_dataset\Medium\2025-B2BCEG.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1108</width>
+		<height>1477</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Medium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>186</ymin>
+			<xmax>858</xmax>
+			<ymax>1197</ymax>
+		</bndbox>
+	</object>
+</annotation>

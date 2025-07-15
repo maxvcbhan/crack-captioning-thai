@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Low</folder>
+	<filename>2025-3UP4ZB.jpg</filename>
+	<path>D:\crack_834\Low\2025-3UP4ZB.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1290</width>
+		<height>2796</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Low</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>509</xmin>
+			<ymin>237</ymin>
+			<xmax>915</xmax>
+			<ymax>1172</ymax>
+		</bndbox>
+	</object>
+</annotation>

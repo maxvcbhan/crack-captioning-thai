@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Medium</folder>
+	<filename>2025-2LTWFY.jpg</filename>
+	<path>D:\final_dataset\Medium\2025-2LTWFY.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1108</width>
+		<height>1477</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Medium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>246</ymin>
+			<xmax>871</xmax>
+			<ymax>1473</ymax>
+		</bndbox>
+	</object>
+</annotation>

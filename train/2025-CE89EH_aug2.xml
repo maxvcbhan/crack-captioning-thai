@@ -1,0 +1,26 @@
+<annotation>
+	<folder>High</folder>
+	<filename>2025-CE89EH_aug2.jpg</filename>
+	<path>D:\final_dataset\High\2025-CE89EH_aug2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>828</width>
+		<height>1180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>High</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>282</xmin>
+			<ymin>104</ymin>
+			<xmax>784</xmax>
+			<ymax>1175</ymax>
+		</bndbox>
+	</object>
+</annotation>

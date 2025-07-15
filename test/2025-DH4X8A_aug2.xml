@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Medium</folder>
+	<filename>2025-DH4X8A_aug2.jpg</filename>
+	<path>D:\final_dataset\Medium\2025-DH4X8A_aug2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Medium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>5</ymin>
+			<xmax>151</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

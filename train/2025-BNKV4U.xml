@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Medium</folder>
+	<filename>2025-BNKV4U.jpg</filename>
+	<path>D:\final_dataset\Medium\2025-BNKV4U.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1774</width>
+		<height>2364</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Medium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>443</xmin>
+			<ymin>109</ymin>
+			<xmax>1064</xmax>
+			<ymax>2317</ymax>
+		</bndbox>
+	</object>
+</annotation>

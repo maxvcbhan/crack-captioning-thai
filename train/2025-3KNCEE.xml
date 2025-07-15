@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Low</folder>
+	<filename>2025-3KNCEE.jpg</filename>
+	<path>D:\crack_834\Low\2025-3KNCEE.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1706</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Low</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>458</xmin>
+			<ymin>658</ymin>
+			<xmax>697</xmax>
+			<ymax>1237</ymax>
+		</bndbox>
+	</object>
+</annotation>

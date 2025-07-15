@@ -1,0 +1,26 @@
+<annotation>
+	<folder>High</folder>
+	<filename>2025-8YA8G4_aug2.jpg</filename>
+	<path>D:\final_dataset\High\2025-8YA8G4_aug2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1108</width>
+		<height>1477</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>High</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>1</ymin>
+			<xmax>801</xmax>
+			<ymax>1182</ymax>
+		</bndbox>
+	</object>
+</annotation>

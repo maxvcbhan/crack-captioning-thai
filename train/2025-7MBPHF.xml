@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Low</folder>
+	<filename>2025-7MBPHF.jpg</filename>
+	<path>D:\crack_834\Low\2025-7MBPHF.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1477</width>
+		<height>1108</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Low</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>216</ymin>
+			<xmax>1477</xmax>
+			<ymax>688</ymax>
+		</bndbox>
+	</object>
+</annotation>

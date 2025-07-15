@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>High</folder>
+	<filename>2025-4ZYTWY_aug2.jpg</filename>
+	<path>D:\final_dataset\High\2025-4ZYTWY_aug2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1108</width>
+		<height>1477</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>High</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>412</xmin>
+			<ymin>296</ymin>
+			<xmax>597</xmax>
+			<ymax>1067</ymax>
+		</bndbox>
+	</object>
+</annotation>

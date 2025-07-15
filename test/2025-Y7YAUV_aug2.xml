@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Medium</folder>
+	<filename>2025-Y7YAUV_aug2.jpg</filename>
+	<path>D:\final_dataset\Medium\2025-Y7YAUV_aug2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Medium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>27</ymin>
+			<xmax>211</xmax>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+</annotation>

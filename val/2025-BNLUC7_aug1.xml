@@ -1,0 +1,26 @@
+<annotation>
+	<folder>High</folder>
+	<filename>2025-BNLUC7_aug1.jpg</filename>
+	<path>D:\final_dataset\High\2025-BNLUC7_aug1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1108</width>
+		<height>1477</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>High</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>153</ymin>
+			<xmax>798</xmax>
+			<ymax>1473</ymax>
+		</bndbox>
+	</object>
+</annotation>

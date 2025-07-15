@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Medium</folder>
+	<filename>2025-AYEAPA.jpg</filename>
+	<path>D:\final_dataset\Medium\2025-AYEAPA.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1029</width>
+		<height>1591</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Medium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>42</ymin>
+			<xmax>677</xmax>
+			<ymax>1536</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>High</folder>
+	<filename>2025-7BT3BH.jpg</filename>
+	<path>D:\final_dataset\High\2025-7BT3BH.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>859</width>
+		<height>1907</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>High</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>65</ymin>
+			<xmax>851</xmax>
+			<ymax>1448</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Medium</folder>
+	<filename>2025-U6PG9R.jpg</filename>
+	<path>D:\final_dataset\Medium\2025-U6PG9R.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>870</width>
+		<height>1882</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Medium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>255</ymin>
+			<xmax>749</xmax>
+			<ymax>1573</ymax>
+		</bndbox>
+	</object>
+</annotation>

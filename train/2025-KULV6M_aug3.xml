@@ -1,0 +1,26 @@
+<annotation>
+	<folder>High</folder>
+	<filename>2025-KULV6M_aug3.jpg</filename>
+	<path>D:\final_dataset\High\2025-KULV6M_aug3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>High</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>39</ymin>
+			<xmax>224</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>
