@@ -4,7 +4,7 @@ A domain-specific dataset for crack classification and captioning in the Thai la
 
 ## Data Source
 
-The images and reports used in this dataset are derived from the [Traffy Fondue](https://traffy.in.th/foundue.php) platform, an open government service for citizen-reported issues in Thailand, operated by NECTEC. Only publicly available and non-personally identifiable data were included. Please refer to the Traffy Fondue website for more information about the platform and its data policy.
+The images and reports used in this dataset are derived from the [Traffy Fondue](https://bangkok.traffy.in.th) platform, an open government service for citizen-reported issues in Thailand, operated by NECTEC. Only publicly available and non-personally identifiable data were included. Please refer to the Traffy Fondue website for more information about the platform and its data policy.
 
 ## Example Notebooks
 
