@@ -15,8 +15,8 @@ Each line is a JSON object containing the following fields:
 - `image`: Relative path to the image file (e.g., `./test/2025-ZHZF78.jpg`)
 - `xml`: Relative path to the corresponding bounding box annotation file (PASCAL VOC XML; e.g., `./test/2025-ZHZF78.xml`)
 - `caption`: Expert-annotated caption (in Thai), describing the crack, possible causes, and recommendations
-- `severity`: Integer score (e.g., 1–3) indicating the level of damage (the meaning of each score should be described elsewhere in the README)
-- `bndbox`: Object containing bounding box coordinates (`xmin`, `ymin`, `xmax`, `ymax`) for the crack region (values may be absolute or relative depending on your convention)
+- `severity`: Integer score (e.g., 1–3) indicating the level of damage  
+- `bndbox`: Object containing bounding box coordinates (`xmin`, `ymin`, `xmax`, `ymax`) for the crack region 
 - `original_size`: `[width, height]` of the original image, used for interpreting bounding box coordinates
 
 **Example content:**
